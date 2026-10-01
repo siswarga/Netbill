@@ -1,5 +1,0 @@
-/*
-  Content-Security-Policy: default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; object-src 'none'; frame-src 'self' https://google.com https://googleusercontent.com; upgrade-insecure-requests;
-  X-Content-Type-Options: nosniff
-  Permissions-Policy: geolocation=(), camera=(), microphone=()
-  Referrer-Policy: no-referrer-when-downgrade
